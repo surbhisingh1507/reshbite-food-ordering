@@ -373,5 +373,8 @@ If this project were extended into a production application, the following featu
 
 https://github.com/surbhisingh1507/freshbite-food-ordering
 
+### Live Website
+
+https://freshbite-food-ordering-n2nzhcxpe-surbhi7.vercel.app/
 
 ⭐ **Thank you for reviewing FreshBite!**
