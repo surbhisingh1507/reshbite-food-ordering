@@ -375,6 +375,6 @@ https://github.com/surbhisingh1507/freshbite-food-ordering
 
 ### Live Website
 
-https://freshbite-food-ordering-n2nzhcxpe-surbhi7.vercel.app/
+https://vercel.com/surbhi7/freshbite-food-ordering
 
 ⭐ **Thank you for reviewing FreshBite!**
